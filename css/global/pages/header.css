@@ -1,0 +1,17 @@
+.header__container {
+  width: 600px;
+  border-bottom: 1px solid #3f3f3f;
+}
+
+.header {
+  text-align: center;
+}
+
+.header__logo {
+  width: 50px;
+  height: auto;
+  margin-top: 19px;
+  margin-bottom: 19px;
+}
+
+/*# sourceMappingURL=header.css.map */

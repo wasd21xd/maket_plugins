@@ -1,0 +1,22 @@
+.wrapper {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+li{
+    list-style: none  ;
+}
+/* ---------------------- */
+
+.main {
+    flex: 1 1 auto;
+}
+
+[class*='__container'] {
+    max-width: 600px;
+    margin: 0 auto;
+}
